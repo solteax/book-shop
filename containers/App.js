@@ -1,10 +1,10 @@
 import * as booksActions from '../redux/actions/books' 
 import {bindActionCreators} from 'redux'
-import {connect} from 'react-redux'
+import {connect} from 'react-redux' // Imperative
 
-import App from '../components/App' // imperativnyi podhod
+import App from '../components/App'
 
-import orderBy from 'lodash/orderBy' // Deklarativnyi podhod
+import orderBy from 'lodash/orderBy' // Deklarative
 
 const sortBy = (books, filterBy, searchQuery) => {
 

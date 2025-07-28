@@ -9,7 +9,7 @@ import Filter from "../containers/Filter"
 import Menu from "../containers/Menu"
 
 function App(props) {
-  const [isLoading, setIsLoading] = React.useState(false)
+  const [isLoading, setIsLoading] = React.useState(true)
   const [isError, setIsError] = React.useState(false)
 
   React.useEffect(() => {
@@ -18,13 +18,15 @@ function App(props) {
 
       setIsError(false)
       try {
-        const res = await axios(`/books.json`)
+        // TODO: update to dynamic path
+        const res = await axios(`/book-shop/books.json`)
 
         setBooks(res.data)
-        setIsLoading(true)
       } catch (error) {
         console.log("Fetch Error: ", error)
         setIsError(true)
+      } finally {
+        setIsLoading(false)
       }
     }
 
@@ -43,7 +45,7 @@ function App(props) {
       <Menu />
       <Filter />
       {isError && <div>Something went wrong ...</div>}
-      {!isLoading ? (
+      {isLoading ? (
         "Загрузка..."
       ) : (
         <Card.Group itemsPerRow={4}>

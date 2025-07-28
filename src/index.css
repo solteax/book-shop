@@ -38,6 +38,9 @@ body .preloader {
   padding: 50px 0;
   box-sizing: content-box;
 }
+body .book-card {
+  height: fit-content;
+}
 body .preloader:after {
   content: " ";
   display: block;

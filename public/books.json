@@ -1,0 +1,154 @@
+[
+  {
+    "id": 0,
+    "title": "Происхождение",
+    "author": "Дэн Браун",
+    "image": "https://books.google.com.ua/books/publisher/content?id=PNaaDwAAQBAJ&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2FygqQAA7QkeBo-yH3Vi6w9Js6Uw&w=1280",
+    "price": 710,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "Джордж Оруэлл",
+    "image": "https://books.google.com.ua/books/publisher/content?id=4uVwEQAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0_S6k7MBRBkXtz7_FPr09zymMnPw&w=1280",
+    "price": 415,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Девушка в тумане",
+    "author": "Донато Карризи",
+    "image": "https://books.google.com.ua/books/publisher/content?id=bYs-DwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2pCFyFGmebcF4TFTL9EyX3OHOgjg&w=1280",
+    "price": 464,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Империя должна умереть",
+    "author": "Михаил Зыгарь",
+    "image": "https://good-book.com.ua/images/thumbs/000/0008585_imperi-dolna-umeret-istori-russkih-revolcij-v-licah-1900-1917_550.jpeg",
+    "price": 741,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Земное притяжение",
+    "author": "Татьяна Устинова",
+    "image": "https://books.google.com.ua/books/publisher/content?id=Esc7DwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U27ioPlhJPH9jYIm6APK0SQYaFbYw&w=1280",
+    "price": 317,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "Зулейха открывает глаза",
+    "author": "Гузель Яхина",
+    "image": "https://books.google.com.ua/books/publisher/content?id=5LRuEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2Abo5eZbKxrX6zzWeF-HRCMPLpDQ&w=1280",
+    "price": 254,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title": "Очаровательный кишечник. Как самый могущественный орган управляет нами",
+    "author": "Джулия Эндерс",
+    "image": "https://books.google.com.ua/books/publisher/content?id=WZQLEQAAQBAJ&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2y9blqZX2FTV3clLyu5Qei163CuA&w=1280",
+    "price": 573,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "iPhuck 10",
+    "author": "Виктор Пелевин",
+    "image": "https://books.google.com.ua/books/publisher/content?id=zpU3DwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1wiR1CxeMPxsWMfXLg3xcchIR4Ow&w=1280",
+    "price": 246,
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "title": "7 навыков высокоэффективных людей: Мощные...",
+    "author": "Стивен Кови",
+    "image": "https://books.google.com.ua/books/publisher/content?id=RlTiCwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3SW4vmdHmoVmyzLPUowDoGXyJoDg&w=1280",
+    "price": 347,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "Девушка во льду",
+    "author": "Роберт Брындза",
+    "image": "https://books.google.com.ua/books/publisher/content?id=bLFGDwAAQBAJ&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3_mfuOoOOq6sNtJAxb8DKMNUBOTQ&w=1280",
+    "price": 882,
+    "rating": 2
+  },
+  {
+    "id": 10,
+    "title": "Магия утра. Как первый час дня определяет ваш успех",
+    "author": "Хэл Элрод",
+    "image": "https://books.google.com.ua/books/publisher/content?id=2JnGDwAAQBAJ&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3P2q2nFGNDBpkW_utn97uSv_WMLA&w=1280",
+    "price": 829,
+    "rating": 1
+  },
+  {
+    "id": 11,
+    "title": "Азиатская европеизация. История Российского государства. Царь Петр...",
+    "author": "Борис Акунин",
+    "image": "https://books.google.com.ua/books/publisher/content?id=AruPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71nKROFPSrx8pyev3QAYOfbVoe0zuclXXQ_zq_xdT5ZR3-lvWSoc0kqhQtp01K3Nr_vok19gfBXJ4LkUTxqH4VrjBgGL7IIir6iROaAsd3ixaKqu6GWjtXUWdcA_EMOralQ77Qz",
+    "price": 389,
+    "rating": 2
+  },
+  {
+    "id": 12,
+    "title": "Ведьмак (сборник)",
+    "author": "Анджей Сапковский",
+    "image": "https://books.google.com.ua/books/publisher/content?id=bd_dDwAAQBAJ&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3Gj8DnDz3jGOcP_1Fh6iptqcSjuQ&w=1280",
+    "price": 424,
+    "rating": 3
+  },
+  {
+    "id": 13,
+    "title": "Атлант расправил плечи",
+    "author": "Айн Рэнд",
+    "image": "https://books.google.com.ua/books/publisher/content?id=dmtNDgAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2feCPRb5d2844pcnEFfP52ZoLvSg&w=1280",
+    "price": 157,
+    "rating": 2
+  },
+  {
+    "id": 14,
+    "title": "Цена вопроса. Том 1",
+    "author": "Александра Маринина",
+    "image": "https://books.google.com.ua/books/publisher/content?id=veY2DwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0H2ZRWPorC5H6WgQj6hllYn4A43g&w=1280",
+    "price": 664,
+    "rating": 0
+  },
+  {
+    "id": 15,
+    "title": "Исчезнувшая",
+    "author": "Гиллиан Флинн",
+    "image": "https://books.google.com.ua/books/publisher/content?id=lb95AAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1xDZm6YbYir6KXrSIGvtwYieYFAQ&w=1280",
+    "price": 476,
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "title": "Метро 2035",
+    "author": "Дмитрий Глуховский",
+    "image": "https://books.google.com.ua/books/publisher/content?id=cLIoCgAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0y8lebRRWGp_TzYfndg1MH0KrQPQ&w=1280",
+    "price": 837,
+    "rating": 4
+  },
+  {
+    "id": 18,
+    "title": "Снеговик",
+    "author": "Ю Несбё",
+    "image": "https://books.google.com.ua/books/content?id=LteEPGwD0skC&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2uSGOEEJJ-8nzmNGwavUI8ZphaZA&w=1280",
+    "price": 796,
+    "rating": 5
+  },
+  {
+    "id": 19,
+    "title": "Как тренировать память. Не думайте о памяти – лучше используйте ее на все сто!",
+    "author": "Джонатан Хэнкок",
+    "image": "https://books.google.com.ua/books/publisher/content?id=G5ZJCgAAQBAJ&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2qHmle9NbpqacdeX27j8WzT0sXiw&w=1280",
+    "price": 399,
+    "rating": 5
+  }
+]
